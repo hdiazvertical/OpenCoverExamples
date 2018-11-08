@@ -128,10 +128,10 @@
       <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
       <Classes />
     </Module>
-    <Module hash="6F-CB-C5-AB-3A-63-72-A5-12-9F-AA-5E-59-DD-7B-CC-BC-25-0D-5D">
+    <Module hash="A2-F5-5A-5B-91-8C-03-D7-EE-68-54-59-ED-40-2C-BD-FE-AA-D2-E5">
       <Summary numSequencePoints="10" visitedSequencePoints="6" numBranchPoints="3" visitedBranchPoints="1" sequenceCoverage="60" branchCoverage="33.33" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="3" />
       <ModulePath>C:\Users\codaltec\Documents\Visual Studio 2015\Projects\OpenCoverExamples\TestProject1\bin\Debug\TestProject1.dll</ModulePath>
-      <ModuleTime>2018-11-08T16:13:35.3732424Z</ModuleTime>
+      <ModuleTime>2018-11-08T19:37:39.9322568Z</ModuleTime>
       <ModuleName>TestProject1</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\codaltec\documents\visual studio 2015\Projects\OpenCoverExamples\TestProject1\Matchers.cs" />
