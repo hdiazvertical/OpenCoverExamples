@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="10" visitedSequencePoints="6" numBranchPoints="3" visitedBranchPoints="1" sequenceCoverage="60" branchCoverage="33.33" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="3" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="AB-8A-C1-7A-CB-9A-53-E1-02-D8-07-0B-81-63-5A-8B-8D-E3-5A-F3">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2018-09-11T01:30:33.7032703Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5C-82-E3-E4-4E-4D-70-5F-6E-0A-28-83-6E-4A-AC-20-0D-55-85-C0">
+      <ModulePath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe</ModulePath>
+      <ModuleTime>2015-07-07T05:51:38Z</ModuleTime>
+      <ModuleName>MSTest</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2C-68-4E-D5-C1-3A-95-ED-B2-9B-A5-AC-35-83-4B-2A-92-7D-EC-71">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:29:46.071048Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BA-D5-C6-DC-0C-59-DA-6B-C8-40-22-29-40-86-10-C6-40-6D-57-E5">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2018-08-14T02:15:16.7427109Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AA-3B-1D-46-19-3E-D3-88-43-47-D3-1C-48-42-12-21-60-87-13-47">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.925403Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BA-37-91-08-FF-4E-E3-92-22-87-5C-B0-C4-31-B2-CD-D2-72-57-18">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Resource\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Resource.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9378045Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Resource</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-F4-1C-14-5D-7A-74-B3-03-8B-1D-2A-59-DC-B6-BE-1D-C8-EF-54">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:16.9508953Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F2-26-5B-FA-55-E9-5B-BC-DD-3A-32-56-2C-38-71-11-1A-8E-6D-32">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0290261Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="01-76-93-04-A0-DC-E8-05-99-10-09-82-2B-83-D9-A0-07-06-C8-E6">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.CommandLine\v4.0_14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.CommandLine.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9121046Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.CommandLine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="9B-2A-D2-1F-98-8C-03-8A-F9-48-4F-C5-2C-AD-79-E3-61-46-5E-E5">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Resource.resources\14.0.0.0_es_b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Resource.resources.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:04:04.3872Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Resource.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="04-58-89-F2-0B-CE-93-0E-73-AA-3D-87-9D-5D-45-11-C0-02-86-EF">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.TMI\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.TMI.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9972142Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.TMI</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5E-75-B0-04-A5-00-F6-29-47-79-54-D4-62-D3-B2-94-D5-05-11-E1">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:41.8030578Z</ModuleTime>
+      <ModuleName>System.Data</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CB-9A-69-FA-E9-A7-1D-79-EC-E4-45-7B-80-24-5F-0E-56-96-EA-D4">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0446523Z</ModuleTime>
+      <ModuleName>System.Numerics</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="56-19-E4-7F-9D-08-2A-5D-25-92-FC-AC-8E-40-FB-0D-95-AA-95-71">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2018-07-11T01:24:41.6624236Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D8-D0-AA-44-01-A4-68-06-BB-05-E0-D9-50-C0-0E-34-3C-7C-4B-7C">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2018-09-11T01:30:33.1251512Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="00-2B-49-9F-4A-61-6D-2F-9C-36-4D-65-B2-02-E5-3F-54-FB-6D-36">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9887216Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0B-BC-B7-85-2B-A3-07-D3-E3-EA-53-91-54-10-B7-EE-3B-7C-63-60">
+      <ModulePath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.Tip.dll</ModulePath>
+      <ModuleTime>2015-07-07T05:51:38Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="08-45-77-C3-8B-8B-8E-34-A2-92-74-D2-A1-49-2F-C3-33-42-63-88">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:09.0195503Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="9C-BD-10-0D-B6-DF-EE-2B-EB-27-DA-26-68-CD-C4-4A-48-7F-7B-09">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.UnitTestFramework\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:09.0016074Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.UnitTestFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AA-88-B1-10-85-A9-09-82-99-D7-42-38-22-D6-CB-B7-60-62-C9-9C">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9917283Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="58-CE-A7-E0-D8-E6-8C-F3-F8-AF-F0-D2-A0-69-59-2C-79-81-21-97">
+      <ModulePath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</ModulePath>
+      <ModuleTime>2015-07-07T05:51:38Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="6F-CB-C5-AB-3A-63-72-A5-12-9F-AA-5E-59-DD-7B-CC-BC-25-0D-5D">
+      <Summary numSequencePoints="10" visitedSequencePoints="6" numBranchPoints="3" visitedBranchPoints="1" sequenceCoverage="60" branchCoverage="33.33" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="3" />
+      <ModulePath>C:\Users\codaltec\Documents\Visual Studio 2015\Projects\OpenCoverExamples\TestProject1\bin\Debug\TestProject1.dll</ModulePath>
+      <ModuleTime>2018-11-08T16:13:35.3732424Z</ModuleTime>
+      <ModuleName>TestProject1</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\codaltec\documents\visual studio 2015\Projects\OpenCoverExamples\TestProject1\Matchers.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::ShouldMockMethodUsingDefinedMathcers()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="6" sl="32" sc="9" el="32" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="7" sl="35" sc="13" el="35" ec="63" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="19" sl="38" sc="13" el="40" ec="33" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="4" ordinal="3" offset="224" sl="43" sc="13" el="43" ec="61" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="5" ordinal="4" offset="253" sl="46" sc="13" el="46" ec="30" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="6" ordinal="5" offset="266" sl="47" sc="9" el="47" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="7" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="8" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass0_0</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass0_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="9" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="2" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Foo</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::Execute(System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="10" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="11" ordinal="1" offset="1" sl="123" sc="13" el="123" ec="49" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="10" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::Execute(System.Int32,System.String,System.Boolean,System.Guid,System.Object)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="12" ordinal="0" offset="0" sl="127" sc="9" el="127" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="13" ordinal="1" offset="1" sl="128" sc="13" el="128" ec="49" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="12" ordinal="0" offset="0" sl="127" sc="9" el="127" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="14" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="81-06-33-34-09-49-27-53-2B-1A-30-21-7E-77-C6-61-2F-7C-2B-F8">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ControllerObject\v4.0_14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ControllerObject.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.9177581Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ControllerObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="7F-4B-70-CC-12-9D-55-8A-0D-C7-AB-EB-13-D1-27-08-44-9A-1F-C6">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentProcessManager\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentProcessManager.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:09.3068652Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentProcessManager</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B5-2C-52-19-7F-DE-8E-1A-EE-7C-F3-4D-31-FC-77-A2-C4-49-EE-AB">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:17.0134Z</ModuleTime>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="A2-12-41-DF-D0-01-FE-7D-5B-C8-6A-82-65-ED-88-FC-EB-0B-18-BD">
+      <ModulePath>c:\Users\codaltec\documents\Visual Studio 2015\projects\opencoverexamples\testproject1\bin\debug\Telerik.JustMock.dll</ModulePath>
+      <ModuleTime>2018-09-12T15:54:56Z</ModuleTime>
+      <ModuleName>Telerik.JustMock</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="47-6D-62-B8-35-D5-03-06-7D-C9-55-33-40-84-6A-5D-9E-47-10-4B">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll</ModulePath>
+      <ModuleTime>2018-04-11T23:35:19.5760921Z</ModuleTime>
+      <ModuleName>Microsoft.CSharp</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="76-9C-2B-6F-02-B3-EE-54-3D-8D-32-35-3A-09-25-FD-A9-C3-37-CC">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll</ModulePath>
+      <ModuleTime>2018-04-12T16:21:03.1415842Z</ModuleTime>
+      <ModuleName>mscorlib.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="50-1B-1B-2E-0B-1C-DB-0B-6C-6A-13-6F-C1-CE-96-5F-5F-E8-49-8C">
+      <ModulePath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent32.exe</ModulePath>
+      <ModuleTime>2015-07-07T05:51:38Z</ModuleTime>
+      <ModuleName>QTAgent32</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="59-1F-98-4F-C2-80-83-2E-DB-A5-09-F9-B7-81-89-21-BF-14-3D-76">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentObject\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentObject.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:08.8922088Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="3B-3B-06-8C-A3-CC-F8-2A-DC-15-1E-A7-A9-99-5E-3E-2F-E0-F2-B5">
+      <ModulePath>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll</ModulePath>
+      <ModuleTime>2018-06-19T22:03:09.0060216Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="37-37-7A-DA-73-D4-47-18-27-60-F2-0B-63-96-18-D5-CF-DD-9F-B7">
+      <ModulePath>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Enterprise.AspNetHelper.dll</ModulePath>
+      <ModuleTime>2016-06-20T19:45:20Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.Enterprise.AspNetHelper</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="">
+      <ModulePath>RefEmit_InMemoryManifestModule</ModulePath>
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

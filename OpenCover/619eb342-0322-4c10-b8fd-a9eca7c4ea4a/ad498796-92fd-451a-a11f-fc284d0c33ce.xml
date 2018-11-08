@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="40" visitedSequencePoints="17" numBranchPoints="9" visitedBranchPoints="6" sequenceCoverage="42.5" branchCoverage="66.67" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="2" numClasses="3" visitedMethods="6" numMethods="9" />
+  <Modules>
+    <Module hash="D4-96-F1-60-15-C0-29-15-6B-2C-93-C0-46-A0-EE-80-5E-D8-EE-55">
+      <Summary numSequencePoints="40" visitedSequencePoints="17" numBranchPoints="9" visitedBranchPoints="6" sequenceCoverage="42.5" branchCoverage="66.67" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="2" numClasses="3" visitedMethods="6" numMethods="9" />
+      <ModulePath>C:\Users\codaltec\documents\visual studio 2015\Projects\OpenCoverExamples\TestProject1\bin\Debug\TestProject1.dll</ModulePath>
+      <ModuleTime>2018-11-08T15:26:10.9353619Z</ModuleTime>
+      <ModuleName>TestProject1</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\codaltec\documents\visual studio 2015\Projects\OpenCoverExamples\TestProject1\JustMockTest.cs" />
+        <File uid="2" fullPath="C:\Users\codaltec\documents\visual studio 2015\Projects\OpenCoverExamples\TestProject1\Matchers.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="8" visitedSequencePoints="5" numBranchPoints="3" visitedBranchPoints="2" sequenceCoverage="62.5" branchCoverage="66.67" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="3" />
+          <FullName>TestProject1.JustMockTest</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestProject1.JustMockTest::get_TestContext()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="26" sc="13" el="26" ec="14" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="1" sl="27" sc="17" el="27" ec="44" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="3" ordinal="2" offset="10" sl="28" sc="13" el="28" ec="14" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="26" sc="13" el="26" ec="14" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void TestProject1.JustMockTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="4" ordinal="0" offset="0" sl="30" sc="13" el="30" ec="14" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="5" ordinal="1" offset="1" sl="31" sc="17" el="31" ec="45" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="6" ordinal="2" offset="8" sl="32" sc="13" el="32" ec="14" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="4" ordinal="0" offset="0" sl="30" sc="13" el="30" ec="14" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="2" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void TestProject1.JustMockTest::TestMethod()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="7" ordinal="0" offset="0" sl="59" sc="9" el="59" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="8" ordinal="1" offset="1" sl="63" sc="9" el="63" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="7" ordinal="0" offset="0" sl="59" sc="9" el="59" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void TestProject1.JustMockTest::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="9" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="28" visitedSequencePoints="12" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="42.86" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="1" visitedMethods="4" numMethods="4" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="50" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="50" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::ShouldMockMethodUsingDefinedMathcers()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="10" ordinal="0" offset="6" sl="32" sc="9" el="32" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="11" ordinal="1" offset="7" sl="35" sc="13" el="35" ec="63" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="12" ordinal="2" offset="19" sl="38" sc="13" el="40" ec="33" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="13" ordinal="3" offset="224" sl="43" sc="13" el="43" ec="61" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="14" ordinal="4" offset="253" sl="46" sc="13" el="46" ec="30" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="15" ordinal="5" offset="266" sl="47" sc="9" el="47" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="16" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="50" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="50" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::ShouldMockMethodUsingArgIsAny()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="17" ordinal="0" offset="6" sl="51" sc="9" el="51" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="18" ordinal="1" offset="7" sl="54" sc="13" el="54" ec="63" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="19" ordinal="2" offset="19" sl="57" sc="13" el="60" ec="37" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="20" ordinal="3" offset="254" sl="63" sc="13" el="63" ec="61" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="21" ordinal="4" offset="283" sl="66" sc="13" el="66" ec="30" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="22" ordinal="5" offset="296" sl="67" sc="9" el="67" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="23" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="33.33" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="33.33" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::ShouldMockMethodUsingArgIsInRange()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="24" ordinal="0" offset="6" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="25" ordinal="1" offset="7" sl="75" sc="13" el="75" ec="63" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="26" ordinal="2" offset="19" sl="78" sc="13" el="80" ec="37" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="27" ordinal="3" offset="207" sl="83" sc="13" el="83" ec="28" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="28" ordinal="4" offset="220" sl="84" sc="13" el="84" ec="28" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="29" ordinal="5" offset="233" sl="85" sc="13" el="85" ec="29" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="30" ordinal="6" offset="247" sl="88" sc="13" el="88" ec="30" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="31" ordinal="7" offset="260" sl="91" sc="13" el="91" ec="28" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="32" ordinal="8" offset="273" sl="92" sc="9" el="92" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="33" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="42.86" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="42.86" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::ShouldMockMethodUsingArgMatches()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="34" ordinal="0" offset="6" sl="97" sc="9" el="97" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="35" ordinal="1" offset="7" sl="100" sc="13" el="100" ec="63" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="36" ordinal="2" offset="19" sl="103" sc="13" el="105" ec="37" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="37" ordinal="3" offset="205" sl="108" sc="13" el="108" ec="28" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="38" ordinal="4" offset="218" sl="111" sc="13" el="111" ec="30" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="39" ordinal="5" offset="231" sl="114" sc="13" el="114" ec="28" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="40" ordinal="6" offset="244" sl="115" sc="9" el="115" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="41" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663305</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="4" uspid="42" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass0_0</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663309</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass0_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="43" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass1_0</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663310</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass1_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="44" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass2_0</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663311</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass2_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="45" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass3_0</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663312</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Matchers_Tests/&lt;&gt;c__DisplayClass3_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="46" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="2" />
+          <FullName>JustMock.ElevatedExamples.BasicUsage.Matchers.Foo</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663306</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::Execute(System.Int32)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="47" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="48" ordinal="1" offset="1" sl="123" sc="13" el="123" ec="49" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="47" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="2" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663307</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::Execute(System.Int32,System.String,System.Boolean,System.Guid,System.Object)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="49" ordinal="0" offset="0" sl="127" sc="9" el="127" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="50" ordinal="1" offset="1" sl="128" sc="13" el="128" ec="49" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="49" ordinal="0" offset="0" sl="127" sc="9" el="127" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663308</MetadataToken>
+              <Name>System.Void JustMock.ElevatedExamples.BasicUsage.Matchers.Foo::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="4" uspid="51" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>
